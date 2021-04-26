@@ -1,3 +1,7 @@
+# The application shows two charts with random height of vertical bar chart
+
+### Technology stack: React, CSS Modules
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
