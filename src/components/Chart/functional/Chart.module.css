@@ -1,0 +1,8 @@
+.chart-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: calc(2px + 1.9vw);
+    align-items: end;
+    width: 100%; 
+    max-width: 450px;
+}
